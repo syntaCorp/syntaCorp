@@ -13,7 +13,7 @@
 <br>
 <br>
 **Let's Connect**
-**<a href="#">LinkedIn</a>**
+**<a href="https://www.linkedin.com/in/kwaku-tieku-dadey/">LinkedIn</a>**
 
 ### Tools/Tech Stack
 - Nmap
@@ -32,15 +32,6 @@
 ### Certifications
 - Security Analyst (SOC)
 - Security+
-- 
-
-**---------------------------**
-- 👀 Completed Front-end engineering training at <a href="https://amalitech.org"/>AmaliTech</a>.
-- 🌱 Specialized in TypeScript, React-Redux & CSS libs/tool (Sass, Tailwind) 
-- 💞️ I’m looking to collaborate on Front-end projects
-- ⚽ My goal is to continue to improve in designing/developing fluid(fully responsive) and standard webapps
-     using modern web technologies
-
 
 
 <!---
