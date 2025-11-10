@@ -5,15 +5,13 @@
 (Sytems Administration - Windows & Ubuntu | Network Penetration Testing | Malware Analysis)
 <br>
 <br>
-<br>
-<br>
+
 - Also a big fan of CTF, let's team up and play. yay! 👊💪
 <br>
 <br>
-<br>
-<br>
-**Let's Connect**
-**<a href="https://www.linkedin.com/in/kwaku-tieku-dadey/">LinkedIn</a>**
+
+**Let's Connect**\
+<a href="https://www.linkedin.com/in/kwaku-tieku-dadey/">LinkedIn</a>
 
 ### Tools/Tech Stack
 - Nmap
