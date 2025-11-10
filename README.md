@@ -1,4 +1,4 @@
-# Hello there, I’m Kwaku
+# Hello there, I’m Kwaku ☺️😎
 ## Certified Cybersecurity Professional | IT Specialist
 - Passionate about securing digital systems, learning ethical hacking and exploring network defense tools.
 
