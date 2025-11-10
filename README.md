@@ -16,21 +16,9 @@ s# Hello there, I’m Kwaku 😎
 - Security+
 <br>
 
-### Let's Connect 🤝
-<a href="https://www.linkedin.com/in/kwaku-tieku-dadey/">LinkedIn</a>
-
-<br> 
-
-<!-- (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/kwaku-tieku-dadey/) -->
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwaku-tieku-dadey)
-
 ### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwaku-tieku-dadey/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwaku-tieku-dadey/)
 
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kwaku-tieku-dadey)  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/kwaku-tieku-dadey)
 
 
 - Also a big fan of CTFs! Always happy to team up for challenges and hands-on learning. 👊💪
