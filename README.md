@@ -11,15 +11,17 @@
 
 <br>
 
-### Certifications
-- Security Analyst (SOC)
-- Security+
+### 🏅 Certifications & Learning
+[![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](#) <br>
+[![Security Analyst L1](https://img.shields.io/badge/TryHackMe-Security%20Analyst-0077B5?style=for-the-badge&logo=tryhackme&logoColor=white)](#)
+
+
 <br>
 
 ### 🤝 Let's Connect
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwaku-tieku-dadey/)
 
-
+<!-- https://tryhackme.com/p/s3cr3tAg3nt -->
 
 - Also a big fan of CTFs! Always happy to team up for challenges and hands-on learning. 👊💪
 
