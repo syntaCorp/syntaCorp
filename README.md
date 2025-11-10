@@ -1,6 +1,6 @@
-s# Hello there, I’m Kwaku 😎  
+# Hello there, I’m Kwaku 😎  
 ## Certified Cybersecurity Professional | IT Specialist  
-- Passionate about securing digital systems, learning ethical hacking and exploring network defense tools. I specialize in **Penetration Testing**, **Security Analysis (malware, network - wired/wireless)** and **Security Research**. Experienced in Sytems Administration - Windows & Ubuntu, Network Penetration Testing and Malware Analysis
+- Passionate about securing digital systems, learning ethical hacking and exploring network defense tools.<br> I specialize in **Penetration Testing**, **Security Analysis (malware, network - wired/wireless)** and **Security Research**. <br> Experienced in **Sytems Administration - Windows & Ubuntu**, **Network Penetration Testing and Malware Analysis**
 <br>
 
 ### Tools & Technologies
