@@ -1,29 +1,21 @@
-# Hello there, I’m Kwaku 😎🙂
-**Certified Cybersecurity Professional | IT Specialist**  
-- Passionate about securing digital systems, learning ethical hacking and exploring network defense tools.
-- My current Security track or professional interest include **Penetration Testing**, **Security Analysis (malware, network - wired/wireless)** and **Security Research**.
-(Sytems Administration - Windows & Ubuntu | Network Penetration Testing | Malware Analysis)
-<br>
-<br>
-
-- Also a big fan of CTF, let's team up and play. yay! 👊💪
+# Hello there, I’m Kwaku 😎  
+## Certified Cybersecurity Professional | IT Specialist  
+- Passionate about securing digital systems, learning ethical hacking and exploring network defense tools. I specialize in **Penetration Testing**, **Security Analysis (malware, network - wired/wireless)** and **Security Research**. Experienced in Sytems Administration - Windows & Ubuntu, Network Penetration Testing and Malware Analysis
 <br>
 <br>
 
 **Let's Connect**\
 <a href="https://www.linkedin.com/in/kwaku-tieku-dadey/">LinkedIn</a>
 
-### Tools/Tech Stack
+### Tools & Technologies
 - Nmap
 - OSINT Framework
-- Aircrack-ng suite
+- Aircrack-ng
 - Autopsy | FTK Imager 
-- Kali Linux, Ubuntu
 - Wireshark
 - Nessus
+- Kali Linux, Ubuntu
 
-<br>
-<br>
 <br>
 <br>
 
@@ -31,6 +23,8 @@
 - Security Analyst (SOC)
 - Security+
 
+
+- Also a big fan of CTFs! Always happy to team up for challenges and hands-on learning. 👊💪
 
 <!---
 syntaCorp/syntaCorp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
