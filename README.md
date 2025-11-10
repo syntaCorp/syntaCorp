@@ -2,7 +2,6 @@
 ## Certified Cybersecurity Professional | IT Specialist  
 - Passionate about securing digital systems, learning ethical hacking and exploring network defense tools. I specialize in **Penetration Testing**, **Security Analysis (malware, network - wired/wireless)** and **Security Research**. Experienced in Sytems Administration - Windows & Ubuntu, Network Penetration Testing and Malware Analysis
 <br>
-<br>
 
 **Let's Connect**\
 <a href="https://www.linkedin.com/in/kwaku-tieku-dadey/">LinkedIn</a>
