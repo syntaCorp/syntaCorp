@@ -1,6 +1,14 @@
 # Hello there, I’m Kwaku 😎🙂
 **Certified Cybersecurity Professional | IT Specialist**  
 - Passionate about securing digital systems, learning ethical hacking and exploring network defense tools.
+- My current Security track or professional interest include Penetration Testing, Security Analysis (malware, network) and Security Research.
+(Sytems Administration - Windows & Ubuntu | Network Penetration Testing | Malware Analysis)
+ \
+ \
+ \
+ \
+- Also a big fan of CTF, let's team up and play. yay! 👊💪
+
 
 
 
