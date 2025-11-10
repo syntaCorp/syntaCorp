@@ -3,7 +3,7 @@
 - Passionate about securing digital systems, learning ethical hacking and exploring network defense tools.<br> I specialize in **Penetration Testing**, **Security Analysis (malware, network - wired/wireless)** and **Security Research**. <br> Experienced in **Sytems Administration - Windows & Ubuntu**, **Network Penetration Testing and Malware Analysis**
 <br>
 
-### Tools & Technologies
+### ⚙️ Tools & Technologies
 - **Network & Vulnerability Assessment:**    Nmap, Nessus, Wireshark, Aircrack-ng, OpenVAS, nc
 - **Digital Forensics & Malware Analysis:**  Autopsy, FTK Imager, Ghidra, Volatility, 
 - **OS & Labs:**    Kali Linux, Ubuntu, Windows Server
