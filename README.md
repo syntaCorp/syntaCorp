@@ -3,18 +3,15 @@
 - Passionate about securing digital systems, learning ethical hacking and exploring network defense tools.
 - My current Security track or professional interest include **Penetration Testing**, **Security Analysis (malware, network - wired/wireless)** and **Security Research**.
 (Sytems Administration - Windows & Ubuntu | Network Penetration Testing | Malware Analysis)
- \  
- \   
- \    
- \  
+<br>
+<br>
+<br>
+<br>
 - Also a big fan of CTF, let's team up and play. yay! 👊💪
-
-
- \  
- \   
- \    
- \  
-
+<br>
+<br>
+<br>
+<br>
 **Let's Connect**
 **<a href="#">LinkedIn</a>**
 
@@ -26,6 +23,7 @@
 - Kali Linux, Ubuntu
 - Wireshark
 - Nessus
+
 <br>
 <br>
 <br>
