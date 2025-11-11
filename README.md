@@ -5,7 +5,7 @@
 
 ### ⚙️ Tools & Technologies
 - **Network & Vulnerability Assessment:**    Nmap, Nessus, Wireshark, Aircrack-ng, OpenVAS, nc
-- **Digital Forensics & Malware Analysis:**  Autopsy, FTK Imager, VirusTotal, 
+- **Digital Forensics & Malware Analysis:**  Autopsy, FTK Imager, VirusTotal, ProcMon, RegShot
 - **OS & Labs:**    Kali Linux, Ubuntu, Windows Server
 - **Security & Pentesting Framework:**  Metasploit, OSINT Framework, Shodan
 
