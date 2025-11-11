@@ -24,7 +24,7 @@
 <!-- https://tryhackme.com/p/s3cr3tAg3nt -->
 
 - Also a big fan of CTFs! Always happy to team up for challenges and hands-on learning. 👊💪
-<br>
+<br>  
 <!---
 syntaCorp/syntaCorp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
